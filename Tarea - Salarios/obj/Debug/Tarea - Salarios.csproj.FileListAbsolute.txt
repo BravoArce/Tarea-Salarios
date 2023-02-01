@@ -1,0 +1,16 @@
+D:\UNIVERSIDAD\III CUATRIMESTRE\Tarea - Salarios\Tarea - Salarios\obj\Debug\Tarea - Salarios.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\III CUATRIMESTRE\Tarea - Salarios\Tarea - Salarios\obj\Debug\Tarea - Salarios.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSIDAD\III CUATRIMESTRE\Tarea - Salarios\Tarea - Salarios\obj\Debug\Tarea - Salarios.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\III CUATRIMESTRE\Tarea - Salarios\Tarea - Salarios\bin\Debug\Tarea - Salarios.exe.config
+D:\UNIVERSIDAD\III CUATRIMESTRE\Tarea - Salarios\Tarea - Salarios\bin\Debug\Tarea - Salarios.exe
+D:\UNIVERSIDAD\III CUATRIMESTRE\Tarea - Salarios\Tarea - Salarios\bin\Debug\Tarea - Salarios.pdb
+D:\UNIVERSIDAD\III CUATRIMESTRE\Tarea - Salarios\Tarea - Salarios\obj\Debug\Tarea - Salarios.exe
+D:\UNIVERSIDAD\III CUATRIMESTRE\Tarea - Salarios\Tarea - Salarios\obj\Debug\Tarea - Salarios.pdb
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Tarea - Salarios\Tarea - Salarios\bin\Debug\Tarea - Salarios.exe.config
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Tarea - Salarios\Tarea - Salarios\bin\Debug\Tarea - Salarios.exe
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Tarea - Salarios\Tarea - Salarios\bin\Debug\Tarea - Salarios.pdb
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Tarea - Salarios\Tarea - Salarios\obj\Debug\Tarea - Salarios.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Tarea - Salarios\Tarea - Salarios\obj\Debug\Tarea - Salarios.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Tarea - Salarios\Tarea - Salarios\obj\Debug\Tarea - Salarios.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Tarea - Salarios\Tarea - Salarios\obj\Debug\Tarea - Salarios.exe
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Tarea - Salarios\Tarea - Salarios\obj\Debug\Tarea - Salarios.pdb
